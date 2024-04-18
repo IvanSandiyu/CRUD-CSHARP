@@ -11,6 +11,7 @@
 
 -Imagenes
 
+
 -Index
 ![index](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/index.png?raw=true)
 
@@ -18,6 +19,7 @@
 
 -Ingresamos CUIT y apretamos boton Agregar/Seleccionar. Si no existe el cliente, se abrirá una ventana para crearlo
 ![crear_cliente](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/creacion_cliente.png?raw=true)
+
 
 
 -Boton editar cliente, abrirá una ventana para editar los valores del cliente exceptuando el CUIT
@@ -30,8 +32,10 @@
 
 
 
+
 -Boton eliminar producto, eliminara el producto que tengamos seleccionado en el listbox
 ![eliminar_prd](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/eliminar_producto.png?raw=true)
+
 
 
 

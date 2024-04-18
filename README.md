@@ -11,7 +11,6 @@
 
 -Imagenes
 
-
 -Index
 ![index](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/index.png?raw=true)
 
@@ -35,7 +34,6 @@
 
 -Boton eliminar producto, eliminara el producto que tengamos seleccionado en el listbox
 ![eliminar_prd](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/eliminar_producto.png?raw=true)
-
 
 
 

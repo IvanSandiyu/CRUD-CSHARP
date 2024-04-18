@@ -1,4 +1,4 @@
-------------------------------------ALTA,MODIFICACION DE CLIENTE Y CREACION,ELIMINACION,MODIFICAR PEDIDOS--------------------------------------
+--------------------------ALTA,MODIFICACION DE CLIENTE Y CREACION,ELIMINACION,MODIFICAR PEDIDOS--------------------------------
 -Programa que se encarga de tomar pedidos de un cliente, se puede modificar tanto el cliente como el pedido
 -Se puede eliminar productos del pedido y ser modificados
 -Realizado con C#
@@ -8,14 +8,18 @@
 -Imagenes
 ![index](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/index.png?raw=true)
 
+
 -Ingresamos CUIT y apretamos boton Agregar/Seleccionar. Si no existe el cliente, se abrirá una ventana para crearlo
 ![crear_cliente](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/creacion_cliente.png?raw=true)
+
 
 -Boton editar cliente, abrirá una ventana para editar los valores del cliente exceptuando el CUIT
 ![editar_cliente](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/edicion_cliente.png?raw=true)
 
+
 -Seleccionamos el tipo de producto y apretamos boton Elegir producto, se mostrará el prod y el precio
 ![elegir_prod](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/seleccionar_producto.png?raw=true)
+
 
 -Boton eliminar producto, eliminara el producto que tengamos seleccionado en el listbox
 ![eliminar_prd](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/eliminar_producto.png?raw=true)

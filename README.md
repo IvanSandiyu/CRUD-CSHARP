@@ -10,7 +10,10 @@
 -Listas
 
 -Imagenes
+
+-Index
 ![index](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/index.png?raw=true)
+
 
 
 -Ingresamos CUIT y apretamos boton Agregar/Seleccionar. Si no existe el cliente, se abrirá una ventana para crearlo
@@ -19,6 +22,7 @@
 
 -Boton editar cliente, abrirá una ventana para editar los valores del cliente exceptuando el CUIT
 ![editar_cliente](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/edicion_cliente.png?raw=true)
+
 
 
 -Seleccionamos el tipo de producto y apretamos boton Elegir producto, se mostrará el prod y el precio
@@ -30,24 +34,30 @@
 ![eliminar_prd](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/eliminar_producto.png?raw=true)
 
 
+
 -Elimiar prod
 ![prod_eliminado](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/eliminar_producto2.png?raw=true)
+
 
 
 -Boton Agregar pedido
 ![agregar_pedido](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/agregamos_pedido.png?raw=true)
 
 
+
 -Boton editar pedido
 ![editar_pedido](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/editar_pedido.png?raw=true)
+
 
 
 -Editamos los KG 
 ![editar_kg](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/editar_pedidoKG.png?raw=true)
 
 
+
 -Luego de darle aceptar, se actualizara el precio del producto
 ![editar_kg2](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/editar_pedidoKGActualizado.png?raw=true)
+
 
 
 -Boton realizar pago, se pagará el precio del pedido. Se restará del saldo que era de 100

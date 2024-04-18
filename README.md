@@ -12,6 +12,7 @@
 -Imagenes
 
 
+
 -Index
 ![index](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/index.png?raw=true)
 
@@ -32,28 +33,41 @@
 ![eliminar_prd](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/eliminar_producto.png?raw=true)
 
 
+
+
 -Elimiar prod
 ![prod_eliminado](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/eliminar_producto2.png?raw=true)
+
+
 
 
 -Boton Agregar pedido
 ![agregar_pedido](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/agregamos_pedido.png?raw=true)
 
 
+
+
 -Boton editar pedido
 ![editar_pedido](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/editar_pedido.png?raw=true)
+
+
 
 
 -Editamos los KG 
 ![editar_kg](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/editar_pedidoKG.png?raw=true)
 
 
+
+
 -Luego de darle aceptar, se actualizara el precio del producto
 ![editar_kg2](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/editar_pedidoKGActualizado.png?raw=true)
 
 
+
+
 -Boton realizar pago, se pagará el precio del pedido. Se restará del saldo que era de 100
 ![boton_pagar](https://github.com/IvanSandiyu/CRUD-CSHARP/blob/main/imagenes/realizar_pago.png?raw=true)
+
 
 
 

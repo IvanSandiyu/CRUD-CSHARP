@@ -1,0 +1,13 @@
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Form1.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vCrearCliente.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vEditarCliente.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\SistemasVentas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vEditarPedido.resources
